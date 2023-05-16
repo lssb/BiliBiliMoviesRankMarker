@@ -8,7 +8,6 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        GM_xmlhttpRequest
 // @require      https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js
-// @connect      https://niceb.icu/2023/05/10/shyf%E5%9C%A8NiceB%E7%9A%84%E6%94%BE%E6%98%A0%E5%AE%A4%E7%9C%8B%E8%BF%87%E7%9A%84%E7%94%B5%E5%BD%B1/
 // @connect      bilibili.com
 // @connect      niceb.icu
 
